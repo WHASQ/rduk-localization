@@ -1,0 +1,27 @@
+{
+  "name": "rduk-localization",
+  "version": "0.0.1",
+  "description": "Easy localization management",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node node_modules/istanbul/lib/cli.js cover node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd-uk/rduk-localization.git"
+  },
+  "keywords": [
+    "localization",
+    "management"
+  ],
+  "author": "Kim UNG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rd-uk/rduk-localization/issues"
+  },
+  "homepage": "https://github.com/rd-uk/rduk-localization#readme",
+  "devDependencies": {
+    "istanbul": "0.4.5",
+    "jasmine": "2.5.2"
+  }
+}
